@@ -1,0 +1,14 @@
+<resources>                                                                                                                                                                                                                                                                                                                    <!-- Design by ygordoring.dev -->
+    <string name="app_name">UiNubank</string>
+
+    <string name="txt_nome_usuário">Olá, Ygor Doring</string>
+    <string name="txt_saldo_conta">Conta\nR$ 10,900,00</string>
+    <string name="txt_cartões">Meus Cartões</string>
+    <string name="txt_cartão_credito">Cartão de crédito</string>
+    <string name="txt_fatura_atual">Fatura</string>
+    <string name="txt_cartão_de_crédito">Cartão de crédito</string>
+    <string name="tx_fatura_atual">Fatura atual</string>
+    <string name="txt_dinheiro_fatura">R$ 1980,39</string>
+    <string name="txtx_limite_disponivel">Limite Disponivel R$ 2.400.00</string>
+    <string name="txt_parcelar_compras">Parcelar Compras</string>
+</resources>
